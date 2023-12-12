@@ -1,0 +1,53 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/5.3.45/css/materialdesignicons.min.css');
+
+
+#waterdrop {
+
+    position: absolute;
+    height: 50px;
+    width: 100%;
+}
+
+#waterdrop canvas {
+    bottom: -70px !important;
+}
+
+.dragging {
+    opacity: .5;
+}
+
+
+@media (min-width : 766px) {
+
+    .ilyas {
+        position: absolute;
+    }
+
+}
+
+@media (min-width : 1029px) {
+
+    .chaoui {
+        position: absolute;
+    }
+
+}
+
+@media (min-width : 1191px) {
+    .lwa3er {
+        position: absolute;
+    }
+}
+
+@media (max-width : 1191px) {
+
+    .tswera {
+        display: none;
+        position: relative;
+    }
+
+    
+}
+
+
+/**** button save  ****/
